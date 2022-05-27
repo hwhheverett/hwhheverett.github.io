@@ -1,17 +1,18 @@
 BEGIN:VCARD
 VERSION:3.0
-REV:2022-04-14T17:12:02Z
+REV:2022-05-27T17:26:53Z
 N;CHARSET=utf-8:Armbruster;Brea;;;
 FN;CHARSET=utf-8:Brea Armbruster
 EMAIL;INTERNET:breaarmbruster@hopewrks.org
-URL;Home;:
+URL;Home;:breaarmbruster-hw.crd.co
 TEL;CELL;HOME;:
 TEL;HOME;:
 TEL;CELL;PERF;:
-ORG;CHARSET=utf-8:HopeWorks Social Enterprises;WORK;
+ORG;CHARSET=utf-8:Extension 293;WORK;
 TITLE;CHARSET=utf-8:Marketing & Communications Director
-URL;WORK;:https://www.hopewrks.org/
-TEL;WORK;:4256104931,293
+URL;WORK;:hopewrks.org
+TEL;WORK;:4256104931
 TEL;CELL;WORK;:
-ADR;WORK;POSTAL;CHARSET=utf-8:;;;;;;United States
+ADR;WORK;POSTAL;CHARSET=utf-8:;;3331 Broadway;Everett;;98201;United State
+ s
 END:VCARD
