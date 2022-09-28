@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:3.0
+REV:2022-09-28T12:55:50Z
+N;CHARSET=utf-8:Graff;Brian;;;
+FN;CHARSET=utf-8:Brian Graff
+EMAIL;INTERNET:briangraff@groundwrks.com
+URL;Home;:briangraff-hw.crd.co
+TEL;CELL;HOME;:
+TEL;HOME;:
+TEL;CELL;PERF;:
+ORG;CHARSET=utf-8:Ground Works Landscaping;WORK;
+TITLE;CHARSET=utf-8:Crew Lead
+URL;WORK;:groundwrks.com
+TEL;WORK;:4252630599
+TEL;CELL;WORK;:
+ADR;WORK;POSTAL;CHARSET=utf-8:;;3331 Broadway;Everett;;98201;United State
+ s
+END:VCARD
