@@ -1,6 +1,6 @@
 BEGIN:VCARD
 VERSION:3.0
-REV:2023-01-05T14:33:26Z
+REV:2023-05-17T17:25:36Z
 N;CHARSET=utf-8:Slingluff;Amanda;;;
 FN;CHARSET=utf-8:Amanda Slingluff
 EMAIL;INTERNET:amandaslingluff@hopewrks.org
@@ -9,10 +9,10 @@ TEL;CELL;HOME;:
 TEL;HOME;:
 TEL;CELL;PERF;:
 ORG;CHARSET=utf-8:Extension 249;WORK;
-TITLE;CHARSET=utf-8:Job Trainer
-URL;WORK;:tomorrowshopechildcare.com
+TITLE;CHARSET=utf-8:Training Supervisor
+URL;WORK;:hopewrks.org
 TEL;WORK;:4256104931
 TEL;CELL;WORK;:
-ADR;WORK;POSTAL;CHARSET=utf-8:;;5910 Evergreen Way;Everett;;98203;United 
- States
+ADR;WORK;POSTAL;CHARSET=utf-8:;;3331 Broadway;Everett;;98201;United State
+ s
 END:VCARD
