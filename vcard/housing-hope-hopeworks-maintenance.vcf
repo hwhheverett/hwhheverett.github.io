@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:3.0
+REV:2023-09-14T15:14:28Z
+N;CHARSET=utf-8:;Housing Hope & HopeWorks Maintenance;;;
+FN;CHARSET=utf-8:Housing Hope & HopeWorks Maintenance
+EMAIL;INTERNET:info@housinghope.org
+URL;Home;:maintenance.crd.co
+TEL;CELL;HOME;:
+TEL;HOME;:
+TEL;CELL;PERF;:
+ORG;CHARSET=utf-8:Housing Hope & HopeWorks;WORK;
+TITLE;CHARSET=utf-8:
+URL;WORK;:housinghope.org/resident-portal
+TEL;WORK;:4253476556
+TEL;CELL;WORK;:
+ADR;WORK;POSTAL;CHARSET=utf-8:;;3331 Broadway;Everett;;98201;United State
+ s
+END:VCARD

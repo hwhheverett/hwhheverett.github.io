@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:3.0
+REV:2023-09-14T15:08:06Z
+N;CHARSET=utf-8:;Housing Hope;;;
+FN;CHARSET=utf-8:Housing Hope
+EMAIL;INTERNET:info@housinghope.org
+URL;Home;:housinghope.crd.co
+TEL;CELL;HOME;:
+TEL;HOME;:
+TEL;CELL;PERF;:
+ORG;CHARSET=utf-8:Housing Hope;WORK;
+TITLE;CHARSET=utf-8:
+URL;WORK;:housinghope.org
+TEL;WORK;:4253476556
+TEL;CELL;WORK;:
+ADR;WORK;POSTAL;CHARSET=utf-8:;;5830 Evergreen Way;Everett;;98203;United 
+ States
+END:VCARD
