@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:3.0
+REV:2023-09-14T14:52:06Z
+N;CHARSET=utf-8:Simpson;Crystal;;;
+FN;CHARSET=utf-8:Crystal Simpson
+EMAIL;INTERNET:crystalsimpson@housinghope.org
+URL;Home;:crystalsimpson.crd.co
+TEL;CELL;HOME;:
+TEL;HOME;:
+TEL;CELL;PERF;:
+ORG;CHARSET=utf-8:Housing Hope & HopeWorks;WORK;
+TITLE;CHARSET=utf-8:Director of Property Management
+URL;WORK;:housinghope.org
+TEL;WORK;:4253812994
+TEL;CELL;WORK;:
+ADR;WORK;POSTAL;CHARSET=utf-8:;;5830 Evergreen Way;Everett;;98203;United 
+ States
+END:VCARD
