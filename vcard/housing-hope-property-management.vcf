@@ -1,10 +1,10 @@
 BEGIN:VCARD
 VERSION:3.0
-REV:2023-09-14T15:09:41Z
-N;CHARSET=utf-8:;Housing Hope Properties;;;
-FN;CHARSET=utf-8:Housing Hope Properties
+REV:2023-09-14T16:44:56Z
+N;CHARSET=utf-8:;Housing Hope Property Management;;;
+FN;CHARSET=utf-8:Housing Hope Property Management
 EMAIL;INTERNET:info@housinghope.org
-URL;Home;:properties.crd.co
+URL;Home;:propertymanagement.crd.co
 TEL;CELL;HOME;:
 TEL;HOME;:
 TEL;CELL;PERF;:
